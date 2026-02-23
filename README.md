@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋, I am Bokamba
 
-<!--
-**graalvitalbienfaiteur022-blip/graalvitalbienfaiteur022-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚜 Agricultural Mechanisation Student | Farm Automation | Sustainable Systems
 
-Here are some ideas to get you started:
+Designing practical, data-driven solutions for modern agriculture through equipment design, automation, and statistical analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Skills
+
+![AutoCAD](https://img.shields.io/badge/AutoCAD-Design-red?style=for-the-badge&logo=autodesk&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-3D%20Modelling-orange?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-Statistical%20Modelling-blue?style=for-the-badge&logo=ibm&logoColor=white)
+
+---
+
+### 🌱 Interests
+
+- Mechanised equipment development  
+- Farm automation systems  
+- Sustainable agricultural engineering  
+- Applied statistics & data-driven decision-making  
+
+---
+
+### 📊 Current Focus
+
+- Designing cost-effective farm machinery  
+- Improving productivity through mechanisation  
+- Integrating automation into agricultural systems  
+
+---
+
+> “Engineering practical solutions for sustainable agriculture.”
